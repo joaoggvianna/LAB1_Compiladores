@@ -54,9 +54,10 @@ A segmentação realizada pela OpenAI (como dividir `position` em `pos` e `ition
 *O que há de interessante no analisador léxico, autômato finito e gramática regular?*
 
 **João Gabriel :**
-*(Seu texto aqui).*
+*O ponto mais interessante é observar como a teoria dos Autômatos Finitos — que muitas vezes parece um conceito puramente abstrato — se transforma na espinha dorsal da eficiência de um compilador. Implementar o scanner me permitiu visualizar como a Gramática Regular funciona como um filtro lógico rigoroso, capaz de converter um fluxo caótico de caracteres em uma sequência estruturada de tokens. Para quem se interessa por arquitetura de software e otimização, entender que o analisador léxico é o primeiro passo para garantir a integridade de um sistema é fundamental, unindo o rigor matemático à utilidade prática no desenvolvimento.*
 
 **Matheus:**
-*(Texto da dupla aqui).*
+*A experiência com o analisador léxico destacou a elegância das Expressões Regulares como uma linguagem de busca de padrões. É fascinante notar como um Autônomo Finito, através de uma série de transições de estados simples, consegue tomar decisões complexas sobre a validade de uma palavra. Ver isso funcionar na prática, seja no simulador JFLAP ou no código Java e Python, torna o conceito de "reconhecimento de linguagem" muito mais palpável, mostrando que a base teórica da computação é o que permite a criação de ferramentas modernas e versáteis.*
 
 **Tulio :**
+*O que mais me chamou a atenção foi o papel do analisador léxico como "limpador" de ruídos no processo de tradução. Perceber que ele é o responsável por ignorar o que é irrelevante para a máquina (espaços e comentários) e focar apenas na essência da Gramática Regular é essencial para entender a hierarquia de um compilador. A transição entre estados de um autônomo demonstra que a lógica computacional é, acima de tudo, uma questão de organização e categorização, transformando texto bruto em unidades de significado que o computador pode finalmente começar a processar.*
