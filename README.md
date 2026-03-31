@@ -29,13 +29,13 @@ Utilizamos uma expressão regular composta por alternâncias (|) para identifica
 * **Códigos em Execução:** 
 #### **Scanner em Python**
 > O script Python utiliza expressões regulares para identificar tokens e gerar uma lista estruturada de lexemas.
-![Execução Python](img/print_python.png)
+![Execução Python](img/print_python.jpg)
 
 ---
 
 #### **Scanner em Java**
 > A implementação em Java foca na performance e na estrutura de classes para representar o fluxo de caracteres e a tabela de símbolos.
-![Execução Java](img/print_java.png)
+![Execução Java](img/print_java.jpg)
 
 ---
 
