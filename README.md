@@ -29,7 +29,7 @@ Utilizamos uma expressão regular composta por alternâncias (|) para identifica
 * **Códigos em Execução:** 
 #### **Scanner em Python**
 > O script Python utiliza expressões regulares para identificar tokens e gerar uma lista estruturada de lexemas.
-![Execução Python](img/printpython.png)
+![Execução Python](img/print_python.png)
 
 ---
 
